@@ -1,0 +1,9 @@
+
+                                                   Restaurant Backend creation Using Json server
+                                               ------------------------------------------------------
+
+     1. Create a new folder for Backend - restaurant-server
+     2. Create package.json - npm init
+     3. Install json-server - npm  i json-server (nodemodules,package.lock.json)
+     4. Create index.js file - (Apply code for backend creation)
+     5. Run server - nodemon inde.js                                               
